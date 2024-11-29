@@ -1,0 +1,68 @@
+/* Navbar*/
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+   .social-media a {
+    font-size: 25px;
+  } 
+  
+  .social-media a:hover {
+    color: #007bff;
+  }
+  
+  /* Product Cards */
+  .card-img-top {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #000000;
+  }
+  
+  /* Footer */
+  footer img {
+    margin-bottom: 10px;
+  }
+  
+  footer .social-media a {
+    color: #555;
+  }
+  
+  footer .social-media a:hover {
+    color: #007bff;
+  }
+  
+  /* Carousel Captions */
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .carousel-caption p {
+    font-size: 1.2rem;
+  }
+  .carousel-item img {
+    object-fit: cover; 
+    height: 500px; 
+    width: 1000px;
+  }
+  /* Toast Noti */
+  #toast-container .toast {
+    min-width: 250px;
+  }
+  
